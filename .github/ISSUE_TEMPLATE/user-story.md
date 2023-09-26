@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-**As a** Service Provider
- **I need**  to deploy the service to the cloud
- **So that** I can scale capacity with user demand
+**As a** User
+ **I need**  seom functionality
+ **So that** I can do this
    
  ### Details and Assumptions
- * We will use IBM Cloud
- * Deploy as a Cloud Foundary app
+ * This is what I know so far
+
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given I have deployed to the cloud
- When a customer comes to our URL
- Then our service will be available
+ Given...
+ When...
+ Then...
  ```
