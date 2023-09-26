@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **As a** User
- **I need**  seom functionality
+ **I need**  some functionality
  **So that** I can do this
    
  ### Details and Assumptions
